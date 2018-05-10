@@ -1,6 +1,5 @@
-var recipes = { 
+var recipes = {
   breakfast: "oatmeal",
 lunch: "salad",
-  dinner: "steak"
-}
+dinner: "steak"}
 
