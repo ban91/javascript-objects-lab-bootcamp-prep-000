@@ -4,5 +4,5 @@ lunch: "salad",
 dinner: "steak"}
 
 function updateObjectWithKeyAndValue(obj, key, value){
-  recipes
+  obj[key]
 }
