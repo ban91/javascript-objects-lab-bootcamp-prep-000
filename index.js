@@ -1,1 +1,5 @@
-var recipes = { breakfast: "oatmeal" };
+var recipes = { 
+  breakfast: "oatmeal",
+lunch: "salad",
+  dinner: "steak"
+};
